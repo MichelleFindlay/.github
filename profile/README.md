@@ -9,4 +9,4 @@
 🌐 You can visit my website at [www.lp0.uk](https://www.lp0.uk).
 _____
 
-🙋 Say hey on [Bluesky]((https://bsky.app/profile/lp0.uk) or [Linkedin](https://uk.linkedin.com/in/michellefindlay).
+🙋 Say hey on [Bluesky](https://bsky.app/profile/lp0.uk) or [Linkedin](https://uk.linkedin.com/in/michellefindlay).
