@@ -10,9 +10,9 @@
 
 🔥 You could go poke My API of Chaos [dumpsterfire.uk](https://dumpsterfire.uk) _(It also has an MCP in Claude and OpenAI)_
 
-⚕️ Self host your own ICE (In Case of Emergency) Page [Demo](https://code.lp0.uk/ice/)) | [Github Repo](https://github.com/MichelleFindlay/ice)
+⚕️ Self host your own ICE (In Case of Emergency) Page [Demo](https://code.lp0.uk/ice/) | [Github Repo](https://github.com/MichelleFindlay/ice)
 
-📜 Kick off a name change via a Deed Poll in the UK, a project i built for Trans* in Gloucestershire. [Demo](https://code.lp0.uk/tig-namechange/)) | [Github Repo](https://github.com/MichelleFindlay/tig-namechange)
+📜 Kick off a name change via a Deed Poll in the UK, a project i built for Trans* in Gloucestershire. [Demo](https://code.lp0.uk/tig-namechange/) | [Github Repo](https://github.com/MichelleFindlay/tig-namechange)
 _____
 
 🙋 Say hey on [Bluesky](https://bsky.app/profile/lp0.uk) or [Linkedin](https://uk.linkedin.com/in/michellefindlay).
