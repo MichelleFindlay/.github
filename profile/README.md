@@ -12,6 +12,8 @@
 
 🎰 Telnet Roulette — spin the dial, choose your fate [telnet.me.uk](https://telnet.me.uk)
 
+⚕️ Self host your own ICE (In Case of Emergency) Page [Demo](https://code.lp0.uk/ice/) | [Github Repo](https://github.com/MichelleFindlay/ice)
+
 📜 Kick off a name change via a Deed Poll in the UK, a project i built for Trans* in Gloucestershire. [Demo](https://code.lp0.uk/tig-namechange/) | [Github Repo](https://github.com/MichelleFindlay/tig-namechange)
 _____
 
