@@ -8,6 +8,8 @@
 
 🌐 You can visit my website at [www.lp0.uk](https://www.lp0.uk).
 
+💥 sudo rm -rf /* — a website that ends the world in 42 flavours, from Nuclear Bomb to Neil the Seal. No confirmation prompt. → [Website](https://sudo.me.uk) | [Github Repo](https://github.com/MichelleFindlay/sudo.me.uk)
+
 🔥 You could go poke My API of Chaos [dumpsterfire.uk](https://dumpsterfire.uk) _(It also has an MCP in Claude and OpenAI)_
 
 🎰 Telnet Roulette — spin the dial, choose your fate [telnet.me.uk](https://telnet.me.uk)
