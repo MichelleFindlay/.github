@@ -12,6 +12,8 @@
 
 🔥 You could go poke My API of Chaos [dumpsterfire.uk](https://dumpsterfire.uk) _(It also has an MCP in Claude and OpenAI)_
 
+🎶🔊 Create a LastFM dashboard for people to find out more about your music taste. (https://code.lp0.uk/lastfm-dash/)
+
 🎰 Telnet Roulette — spin the dial, choose your fate [telnet.me.uk](https://telnet.me.uk)
 
 ⚕️ Self host your own ICE (In Case of Emergency) Page [Demo](https://code.lp0.uk/ice/) | [Github Repo](https://github.com/MichelleFindlay/ice)
