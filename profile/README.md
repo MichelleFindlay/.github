@@ -14,6 +14,8 @@
 
 🎶🔊 Create a LastFM dashboard for people to find out more about your music taste. (https://code.lp0.uk/lastfm-dash/)
 
+🎬📺 Turn your Trakt watch history into a dashboard of stats about your TV and film taste. (https://code.lp0.uk/box-office-for-one)
+
 🎰 Telnet Roulette — spin the dial, choose your fate [telnet.me.uk](https://telnet.me.uk)
 
 ⚕️ Self host your own ICE (In Case of Emergency) Page [Demo](https://code.lp0.uk/ice/) | [Github Repo](https://github.com/MichelleFindlay/ice)
