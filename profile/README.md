@@ -18,7 +18,7 @@
 
 🎰 Telnet Roulette — spin the dial, choose your fate [telnet.me.uk](https://telnet.me.uk)
 
-💊 Self host your own Medical Tracker & Meds tracker (Pillbox) [Demo](https://code.lp0.uk/pillbox/) | [Github Repo](https://github.com/MichelleFindlay/pillbox)
+💊 Self host your own Medical Dashboard & Medication Tracker (Pillbox) [Demo](https://code.lp0.uk/pillbox/) | [Github Repo](https://github.com/MichelleFindlay/pillbox)
 
 ⚕️ Self host your own ICE (In Case of Emergency) Page [Demo](https://code.lp0.uk/ice/) | [Github Repo](https://github.com/MichelleFindlay/ice)
 
