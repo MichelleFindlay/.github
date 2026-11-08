@@ -22,6 +22,10 @@
 
 ⚕️ Self host your own ICE (In Case of Emergency) Page [Demo](https://code.lp0.uk/ice/) | [Github Repo](https://github.com/MichelleFindlay/ice)
 
+📱 Kiosky — turn any Android tablet into a full-screen, wall-mounted web kiosk. [Github Repo](https://github.com/YOUR-USERNAME/kiosky)
+
+🐑 Kiosky Shepherd — keeps an eye on all her little Kioskys. Self-host your own monitoring and remote control for Android kiosk fleets. [Github Repo](https://github.com/YOUR-USERNAME/kiosky-shepherd)
+
 📜 Kick off a name change via a Deed Poll in the UK, a project i built for Trans* in Gloucestershire. [Demo](https://code.lp0.uk/tig-namechange/) | [Github Repo](https://github.com/MichelleFindlay/tig-namechange)
 _____
 
